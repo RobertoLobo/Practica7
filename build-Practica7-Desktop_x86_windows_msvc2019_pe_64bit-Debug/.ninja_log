@@ -1,0 +1,14 @@
+# ninja log v5
+3	1456	734398192	Practica7_autogen/timestamp	29d18ceb9c9b83a1
+1456	4726	734398195	CMakeFiles/Practica7.dir/Practica7_autogen/mocs_compilation.cpp.obj	8aa532cbd78ea769
+1463	5204	734398196	CMakeFiles/Practica7.dir/main.cpp.obj	f9c278a618be8bdd
+1468	7502	734398198	CMakeFiles/Practica7.dir/mainwindow.cpp.obj	2ac399c2309ff48b
+7503	8207	734398199	Practica7.exe	3fa5edef99cb4fea
+29	2215	734576247	Practica7_autogen/timestamp	29d18ceb9c9b83a1
+2216	9526	734576254	CMakeFiles/Practica7.dir/Practica7_autogen/mocs_compilation.cpp.obj	8aa532cbd78ea769
+2229	12923	734576258	CMakeFiles/Practica7.dir/mainwindow.cpp.obj	2ac399c2309ff48b
+12924	13511	734576258	Practica7.exe	3fa5edef99cb4fea
+37	11066	734576371	CMakeFiles/Practica7.dir/mainwindow.cpp.obj	2ac399c2309ff48b
+11067	11624	734576371	Practica7.exe	3fa5edef99cb4fea
+17	7248	734659506	CMakeFiles/Practica7.dir/mainwindow.cpp.obj	2ac399c2309ff48b
+7249	8051	734659507	Practica7.exe	3fa5edef99cb4fea
